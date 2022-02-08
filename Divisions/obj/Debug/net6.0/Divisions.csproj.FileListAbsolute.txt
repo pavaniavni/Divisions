@@ -1,0 +1,14 @@
+C:\Users\Pavani\source\repos\Divisions\Divisions\bin\Debug\net6.0\Divisions.exe
+C:\Users\Pavani\source\repos\Divisions\Divisions\bin\Debug\net6.0\Divisions.deps.json
+C:\Users\Pavani\source\repos\Divisions\Divisions\bin\Debug\net6.0\Divisions.runtimeconfig.json
+C:\Users\Pavani\source\repos\Divisions\Divisions\bin\Debug\net6.0\Divisions.dll
+C:\Users\Pavani\source\repos\Divisions\Divisions\bin\Debug\net6.0\ref\Divisions.dll
+C:\Users\Pavani\source\repos\Divisions\Divisions\bin\Debug\net6.0\Divisions.pdb
+C:\Users\Pavani\source\repos\Divisions\Divisions\obj\Debug\net6.0\Divisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\Divisions\Divisions\obj\Debug\net6.0\Divisions.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\Divisions\Divisions\obj\Debug\net6.0\Divisions.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\Divisions\Divisions\obj\Debug\net6.0\Divisions.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\Divisions\Divisions\obj\Debug\net6.0\Divisions.dll
+C:\Users\Pavani\source\repos\Divisions\Divisions\obj\Debug\net6.0\ref\Divisions.dll
+C:\Users\Pavani\source\repos\Divisions\Divisions\obj\Debug\net6.0\Divisions.pdb
+C:\Users\Pavani\source\repos\Divisions\Divisions\obj\Debug\net6.0\Divisions.genruntimeconfig.cache
